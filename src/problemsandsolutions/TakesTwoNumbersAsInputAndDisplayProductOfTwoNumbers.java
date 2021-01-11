@@ -19,6 +19,7 @@ public class TakesTwoNumbersAsInputAndDisplayProductOfTwoNumbers {
 		System.out.println(num1 + " x " + num2 + " = " + product);
 		in.close();
 		
+		
 	}
 
 }
